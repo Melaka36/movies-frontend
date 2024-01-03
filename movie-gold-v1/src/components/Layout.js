@@ -6,7 +6,7 @@ const Layout = () => {
   return (
     // <main> is used to wrap the main content of each page
     <main>
-        Layout
+        <Outlet/>
     </main>
   )
 }
